@@ -9,5 +9,5 @@
 int main(void)
 {
 	_print_rev_recursion("\nColton Walter");
-	return 0:
+	return 0;
 }
